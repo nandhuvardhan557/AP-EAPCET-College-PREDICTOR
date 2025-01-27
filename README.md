@@ -1,4 +1,2 @@
-# APEAPCET-College-PREDICTOR
+# APEAPCET-College-PREDICTOR just for references
 http://college.infinityfreeapp.com/
-don't use without permission
-all copyrights are reserved
